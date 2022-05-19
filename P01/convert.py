@@ -24,9 +24,9 @@ def makePoint(city):
 
     for key,val in city.items():
         if key == 'latitude':
-            feature['geometry']['coordinates'][0] = val
-        elif key == 'longitude':
             feature['geometry']['coordinates'][1] = val
+        elif key == 'longitude':
+            feature['geometry']['coordinates'][0] = val
         else:
             feature['properties'][key] = val
 
@@ -103,7 +103,7 @@ linestr = {
 }
 
 for city in highestpopcities:
-    linestr["geometry"]["coordinates"].append([city[1]])
+    linestr["geometry"]["coordinates"].append([city[1][0], city[1][1]])
 geo['features'].append(linestr)
 
 with open("result.geojson","w") as f:
