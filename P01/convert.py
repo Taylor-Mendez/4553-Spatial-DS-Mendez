@@ -68,14 +68,15 @@ geo = {
 # dictionary of state info for highest pop city in each state
 highestpop = {}
 for item in points:
-    if item["properties"]["state"] not in highestpop:
-        highestpop[item["properties"]["state"]] = item
-    else:
-        pop1 = highestpop[item["properties"]["state"]]
-        pop1 = pop1["properties"]["population"]
-        pop2 = item["properties"]["population"]
-        if pop1 < pop2:
+    if item["properties"]["state"] != "Alaska" and item["properties"]["state"] != "Hawaii":
+        if item["properties"]["state"] not in highestpop:
             highestpop[item["properties"]["state"]] = item
+        else:
+            pop1 = highestpop[item["properties"]["state"]]
+            pop1 = pop1["properties"]["population"]
+            pop2 = item["properties"]["population"]
+            if pop1 < pop2:
+                highestpop[item["properties"]["state"]] = item
 
 for key in highestpop:
     geo["features"].append(highestpop[key])
