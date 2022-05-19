@@ -13,8 +13,7 @@ def makePoint(city):
     feature = {
         "type": "Feature",
         "properties": {
-        "marker-color":randColor(),
-        "marker-symbol": 'A'
+        "marker-color": randColor()
         },
         "geometry": {
         "type": "Point",
