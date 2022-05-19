@@ -24,9 +24,9 @@ def makePoint(city):
 
     for key,val in city.items():
         if key == 'latitude':
-            feature['geometry']['coordinates'][1] = val
-        elif key == 'longitude':
             feature['geometry']['coordinates'][0] = val
+        elif key == 'longitude':
+            feature['geometry']['coordinates'][1] = val
         else:
             feature['properties'][key] = val
 

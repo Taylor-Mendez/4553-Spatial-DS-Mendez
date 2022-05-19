@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#ACF270",
+                "marker-color": "#043D9B",
                 "marker-symbol": "A",
                 "city": "Jacksonville",
                 "growth": 14.3,
@@ -14,15 +14,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.65565099999999,
-                    30.3321838
+                    30.3321838,
+                    -81.65565099999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#CB42C8",
+                "marker-color": "#E3CD97",
                 "marker-symbol": "A",
                 "city": "Chicago",
                 "growth": -6.1,
@@ -32,15 +32,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.6297982,
-                    41.8781136
+                    41.8781136,
+                    -87.6297982
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#ACEE6A",
+                "marker-color": "#908894",
                 "marker-symbol": "A",
                 "city": "Los Angeles",
                 "growth": 4.8,
@@ -50,15 +50,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.2436849,
-                    34.0522342
+                    34.0522342,
+                    -118.2436849
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#7D0E14",
+                "marker-color": "#1EE074",
                 "marker-symbol": "A",
                 "city": "Des Moines",
                 "growth": 3.9,
@@ -68,15 +68,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.6091064,
-                    41.6005448
+                    41.6005448,
+                    -93.6091064
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#BC4560",
+                "marker-color": "#29A552",
                 "marker-symbol": "A",
                 "city": "Detroit",
                 "growth": -27.1,
@@ -86,15 +86,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.0457538,
-                    42.331427
+                    42.331427,
+                    -83.0457538
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#00E957",
+                "marker-color": "#EB3576",
                 "marker-symbol": "A",
                 "city": "Memphis",
                 "growth": -5.3,
@@ -104,15 +104,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.0489801,
-                    35.1495343
+                    35.1495343,
+                    -90.0489801
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C33CCB",
+                "marker-color": "#7586AB",
                 "marker-symbol": "A",
                 "city": "Indianapolis",
                 "growth": 7.8,
@@ -122,15 +122,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.158068,
-                    39.768403
+                    39.768403,
+                    -86.158068
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#A1E53B",
+                "marker-color": "#2A474F",
                 "marker-symbol": "A",
                 "city": "Houston",
                 "growth": 11,
@@ -140,15 +140,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.3698028,
-                    29.7604267
+                    29.7604267,
+                    -95.3698028
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#53CB71",
+                "marker-color": "#F8F3CD",
                 "marker-symbol": "A",
                 "city": "Kansas City",
                 "growth": 5.5,
@@ -158,15 +158,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.5785667,
-                    39.0997265
+                    39.0997265,
+                    -94.5785667
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#536DDB",
+                "marker-color": "#346B0A",
                 "marker-symbol": "A",
                 "city": "Boise City",
                 "growth": 9.5,
@@ -176,15 +176,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -116.2146068,
-                    43.6187102
+                    43.6187102,
+                    -116.2146068
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#A9E8EE",
+                "marker-color": "#1600D6",
                 "marker-symbol": "A",
                 "city": "Columbus",
                 "growth": 14.8,
@@ -194,15 +194,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.99879419999999,
-                    39.9611755
+                    39.9611755,
+                    -82.99879419999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#CF2706",
+                "marker-color": "#5CEDCD",
                 "marker-symbol": "A",
                 "city": "Newark",
                 "growth": 2.1,
@@ -212,15 +212,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.1723667,
-                    40.735657
+                    40.735657,
+                    -74.1723667
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B99C12",
+                "marker-color": "#CE1C70",
                 "marker-symbol": "A",
                 "city": "Denver",
                 "growth": 16.7,
@@ -230,15 +230,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.990251,
-                    39.7392358
+                    39.7392358,
+                    -104.990251
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#4D3DA0",
+                "marker-color": "#F92321",
                 "marker-symbol": "A",
                 "city": "Boston",
                 "growth": 9.4,
@@ -248,15 +248,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.0588801,
-                    42.3600825
+                    42.3600825,
+                    -71.0588801
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#1864B6",
+                "marker-color": "#5EADDF",
                 "marker-symbol": "A",
                 "city": "Bridgeport",
                 "growth": 5.4,
@@ -266,15 +266,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.19517669999999,
-                    41.1865478
+                    41.1865478,
+                    -73.19517669999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#0BD124",
+                "marker-color": "#197FA0",
                 "marker-symbol": "A",
                 "city": "Charlotte",
                 "growth": 39.1,
@@ -284,15 +284,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.8431267,
-                    35.2270869
+                    35.2270869,
+                    -80.8431267
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#8A0412",
+                "marker-color": "#922999",
                 "marker-symbol": "A",
                 "city": "Salt Lake City",
                 "growth": 5.1,
@@ -302,15 +302,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -111.8910474,
-                    40.7607793
+                    40.7607793,
+                    -111.8910474
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#1B21ED",
+                "marker-color": "#A48CF9",
                 "marker-symbol": "A",
                 "city": "Omaha",
                 "growth": 5.9,
@@ -320,15 +320,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.99798829999999,
-                    41.2523634
+                    41.2523634,
+                    -95.99798829999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#761E40",
+                "marker-color": "#CD000E",
                 "marker-symbol": "A",
                 "city": "Seattle",
                 "growth": 15.6,
@@ -338,15 +338,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.3320708,
-                    47.6062095
+                    47.6062095,
+                    -122.3320708
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#618099",
+                "marker-color": "#565004",
                 "marker-symbol": "A",
                 "city": "Oklahoma City",
                 "growth": 20.2,
@@ -356,15 +356,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.5164276,
-                    35.4675602
+                    35.4675602,
+                    -97.5164276
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#8BF297",
+                "marker-color": "#637F6B",
                 "marker-symbol": "A",
                 "city": "Providence",
                 "growth": 2.3,
@@ -374,15 +374,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4128343,
-                    41.8239891
+                    41.8239891,
+                    -71.4128343
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#AEA8BB",
+                "marker-color": "#410632",
                 "marker-symbol": "A",
                 "city": "Portland",
                 "growth": 15,
@@ -392,15 +392,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.6764816,
-                    45.5230622
+                    45.5230622,
+                    -122.6764816
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#68915E",
+                "marker-color": "#8F5E1B",
                 "marker-symbol": "A",
                 "city": "Philadelphia",
                 "growth": 2.6,
@@ -410,15 +410,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.1652215,
-                    39.9525839
+                    39.9525839,
+                    -75.1652215
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C7BCCB",
+                "marker-color": "#74CDF6",
                 "marker-symbol": "A",
                 "city": "Phoenix",
                 "growth": 14,
@@ -428,15 +428,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.0740373,
-                    33.4483771
+                    33.4483771,
+                    -112.0740373
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#2D2079",
+                "marker-color": "#6F8CB4",
                 "marker-symbol": "A",
                 "city": "New York",
                 "growth": 4.8,
@@ -446,15 +446,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.0059413,
-                    40.7127837
+                    40.7127837,
+                    -74.0059413
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#538E17",
+                "marker-color": "#F1CC45",
                 "marker-symbol": "A",
                 "city": "Wichita",
                 "growth": 9.7,
@@ -464,15 +464,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.336111,
-                    37.688889
+                    37.688889,
+                    -97.336111
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#D82075",
+                "marker-color": "#28EB73",
                 "marker-symbol": "A",
                 "city": "Minneapolis",
                 "growth": 4.5,
@@ -482,15 +482,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.2650108,
-                    44.977753
+                    44.977753,
+                    -93.2650108
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#EF0823",
+                "marker-color": "#50B6A0",
                 "marker-symbol": "A",
                 "city": "Las Vegas",
                 "growth": 24.5,
@@ -500,15 +500,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.1398296,
-                    36.1699412
+                    36.1699412,
+                    -115.1398296
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#492678",
+                "marker-color": "#50E8A0",
                 "marker-symbol": "A",
                 "city": "Jackson",
                 "growth": -6.8,
@@ -518,15 +518,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.1848103,
-                    32.2987573
+                    32.2987573,
+                    -90.1848103
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C46F20",
+                "marker-color": "#6FA295",
                 "marker-symbol": "A",
                 "city": "Virginia Beach",
                 "growth": 5.1,
@@ -536,15 +536,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.97798499999999,
-                    36.8529263
+                    36.8529263,
+                    -75.97798499999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#8D3AEC",
+                "marker-color": "#7F5C05",
                 "marker-symbol": "A",
                 "city": "Little Rock",
                 "growth": 7.6,
@@ -554,15 +554,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.28959479999999,
-                    34.7464809
+                    34.7464809,
+                    -92.28959479999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#F3CE77",
+                "marker-color": "#3233FA",
                 "marker-symbol": "A",
                 "city": "Milwaukee",
                 "growth": 0.3,
@@ -572,15 +572,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.9064736,
-                    43.0389025
+                    43.0389025,
+                    -87.9064736
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#598C51",
+                "marker-color": "#D72FE4",
                 "marker-symbol": "A",
                 "city": "Birmingham",
                 "growth": -12.3,
@@ -590,15 +590,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.80248999999999,
-                    33.5206608
+                    33.5206608,
+                    -86.80248999999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C172D3",
+                "marker-color": "#C86B77",
                 "marker-symbol": "A",
                 "city": "Fargo",
                 "growth": 24.9,
@@ -608,15 +608,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.7898034,
-                    46.8771863
+                    46.8771863,
+                    -96.7898034
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#C81C74",
+                "marker-color": "#10C9A7",
                 "marker-symbol": "A",
                 "city": "Atlanta",
                 "growth": 6.2,
@@ -626,15 +626,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.3879824,
-                    33.7489954
+                    33.7489954,
+                    -84.3879824
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#B43BE9",
+                "marker-color": "#065D18",
                 "marker-symbol": "A",
                 "city": "Baltimore",
                 "growth": -4,
@@ -644,15 +644,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.6121893,
-                    39.2903848
+                    39.2903848,
+                    -76.6121893
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#DAF1A4",
+                "marker-color": "#C492EE",
                 "marker-symbol": "A",
                 "city": "Billings",
                 "growth": 18.6,
@@ -662,15 +662,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -108.5006904,
-                    45.7832856
+                    45.7832856,
+                    -108.5006904
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#A194A6",
+                "marker-color": "#208164",
                 "marker-symbol": "A",
                 "city": "New Orleans",
                 "growth": -21.6,
@@ -680,15 +680,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.0715323,
-                    29.95106579999999
+                    29.95106579999999,
+                    -90.0715323
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#6073F9",
+                "marker-color": "#353E66",
                 "marker-symbol": "A",
                 "city": "Columbia",
                 "growth": 11.7,
@@ -698,15 +698,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.0348144,
-                    34.0007104
+                    34.0007104,
+                    -81.0348144
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#9928AE",
+                "marker-color": "#3E0FBB",
                 "marker-symbol": "A",
                 "city": "Cheyenne",
                 "growth": 16.9,
@@ -716,15 +716,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.8202462,
-                    41.1399814
+                    41.1399814,
+                    -104.8202462
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3EBF6E",
+                "marker-color": "#0D39B9",
                 "marker-symbol": "A",
                 "city": "Sioux Falls",
                 "growth": 31.1,
@@ -734,15 +734,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.73110340000001,
-                    43.5445959
+                    43.5445959,
+                    -96.73110340000001
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#066BA1",
+                "marker-color": "#CAD65E",
                 "marker-symbol": "A",
                 "city": "Washington",
                 "growth": 13,
@@ -752,15 +752,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0368707,
-                    38.9071923
+                    38.9071923,
+                    -77.0368707
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#8251BF",
+                "marker-color": "#BD721A",
                 "marker-symbol": "A",
                 "city": "Albuquerque",
                 "growth": 23.5,
@@ -770,15 +770,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -106.6055534,
-                    35.0853336
+                    35.0853336,
+                    -106.6055534
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#3C464F",
+                "marker-color": "#5F54AD",
                 "marker-symbol": "A",
                 "city": "Burlington",
                 "growth": 6.1,
@@ -788,15 +788,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.21207199999999,
-                    44.4758825
+                    44.4758825,
+                    -73.21207199999999
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#465E39",
+                "marker-color": "#3AF018",
                 "marker-symbol": "A",
                 "city": "Louisville/Jefferson County",
                 "growth": 10,
@@ -806,15 +806,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.7584557,
-                    38.2526647
+                    38.2526647,
+                    -85.7584557
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#AB8DD3",
+                "marker-color": "#4DCFA4",
                 "marker-symbol": "A",
                 "city": "Wilmington",
                 "growth": -1.6,
@@ -824,15 +824,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.5397878,
-                    39.7390721
+                    39.7390721,
+                    -75.5397878
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#737672",
+                "marker-color": "#92D627",
                 "marker-symbol": "A",
                 "city": "Portland",
                 "growth": 3.2,
@@ -842,15 +842,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.2553259,
-                    43.66147100000001
+                    43.66147100000001,
+                    -70.2553259
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#20AB78",
+                "marker-color": "#F94B30",
                 "marker-symbol": "A",
                 "city": "Manchester",
                 "growth": 2.9,
@@ -860,15 +860,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4547891,
-                    42.9956397
+                    42.9956397,
+                    -71.4547891
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#6A4A18",
+                "marker-color": "#418652",
                 "marker-symbol": "A",
                 "city": "Charleston",
                 "growth": -4.7,
@@ -878,311 +878,311 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.6326234,
-                    38.3498195
+                    38.3498195,
+                    -81.6326234
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "color": "#1823DF"
+                "color": "#0CA7BA"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
                         [
-                            -122.6764816,
-                            45.5230622
+                            29.7604267,
+                            -95.3698028
                         ]
                     ],
                     [
                         [
-                            -122.3320708,
-                            47.6062095
+                            29.95106579999999,
+                            -90.0715323
                         ]
                     ],
                     [
                         [
-                            -118.2436849,
-                            34.0522342
+                            30.3321838,
+                            -81.65565099999999
                         ]
                     ],
                     [
                         [
-                            -116.2146068,
-                            43.6187102
+                            32.2987573,
+                            -90.1848103
                         ]
                     ],
                     [
                         [
-                            -115.1398296,
-                            36.1699412
+                            33.4483771,
+                            -112.0740373
                         ]
                     ],
                     [
                         [
-                            -112.0740373,
-                            33.4483771
+                            33.5206608,
+                            -86.80248999999999
                         ]
                     ],
                     [
                         [
-                            -111.8910474,
-                            40.7607793
+                            33.7489954,
+                            -84.3879824
                         ]
                     ],
                     [
                         [
-                            -108.5006904,
-                            45.7832856
+                            34.0007104,
+                            -81.0348144
                         ]
                     ],
                     [
                         [
-                            -106.6055534,
-                            35.0853336
+                            34.0522342,
+                            -118.2436849
                         ]
                     ],
                     [
                         [
-                            -104.990251,
-                            39.7392358
+                            34.7464809,
+                            -92.28959479999999
                         ]
                     ],
                     [
                         [
-                            -104.8202462,
-                            41.1399814
+                            35.0853336,
+                            -106.6055534
                         ]
                     ],
                     [
                         [
-                            -97.5164276,
-                            35.4675602
+                            35.1495343,
+                            -90.0489801
                         ]
                     ],
                     [
                         [
-                            -97.336111,
-                            37.688889
+                            35.2270869,
+                            -80.8431267
                         ]
                     ],
                     [
                         [
-                            -96.7898034,
-                            46.8771863
+                            35.4675602,
+                            -97.5164276
                         ]
                     ],
                     [
                         [
-                            -96.73110340000001,
-                            43.5445959
+                            36.1699412,
+                            -115.1398296
                         ]
                     ],
                     [
                         [
-                            -95.99798829999999,
-                            41.2523634
+                            36.8529263,
+                            -75.97798499999999
                         ]
                     ],
                     [
                         [
-                            -95.3698028,
-                            29.7604267
+                            37.688889,
+                            -97.336111
                         ]
                     ],
                     [
                         [
-                            -94.5785667,
-                            39.0997265
+                            38.2526647,
+                            -85.7584557
                         ]
                     ],
                     [
                         [
-                            -93.6091064,
-                            41.6005448
+                            38.3498195,
+                            -81.6326234
                         ]
                     ],
                     [
                         [
-                            -93.2650108,
-                            44.977753
+                            38.9071923,
+                            -77.0368707
                         ]
                     ],
                     [
                         [
-                            -92.28959479999999,
-                            34.7464809
+                            39.0997265,
+                            -94.5785667
                         ]
                     ],
                     [
                         [
-                            -90.1848103,
-                            32.2987573
+                            39.2903848,
+                            -76.6121893
                         ]
                     ],
                     [
                         [
-                            -90.0715323,
-                            29.95106579999999
+                            39.7390721,
+                            -75.5397878
                         ]
                     ],
                     [
                         [
-                            -90.0489801,
-                            35.1495343
+                            39.7392358,
+                            -104.990251
                         ]
                     ],
                     [
                         [
-                            -87.9064736,
-                            43.0389025
+                            39.768403,
+                            -86.158068
                         ]
                     ],
                     [
                         [
-                            -87.6297982,
-                            41.8781136
+                            39.9525839,
+                            -75.1652215
                         ]
                     ],
                     [
                         [
-                            -86.80248999999999,
-                            33.5206608
+                            39.9611755,
+                            -82.99879419999999
                         ]
                     ],
                     [
                         [
-                            -86.158068,
-                            39.768403
+                            40.7127837,
+                            -74.0059413
                         ]
                     ],
                     [
                         [
-                            -85.7584557,
-                            38.2526647
+                            40.735657,
+                            -74.1723667
                         ]
                     ],
                     [
                         [
-                            -84.3879824,
-                            33.7489954
+                            40.7607793,
+                            -111.8910474
                         ]
                     ],
                     [
                         [
-                            -83.0457538,
-                            42.331427
+                            41.1399814,
+                            -104.8202462
                         ]
                     ],
                     [
                         [
-                            -82.99879419999999,
-                            39.9611755
+                            41.1865478,
+                            -73.19517669999999
                         ]
                     ],
                     [
                         [
-                            -81.65565099999999,
-                            30.3321838
+                            41.2523634,
+                            -95.99798829999999
                         ]
                     ],
                     [
                         [
-                            -81.6326234,
-                            38.3498195
+                            41.6005448,
+                            -93.6091064
                         ]
                     ],
                     [
                         [
-                            -81.0348144,
-                            34.0007104
+                            41.8239891,
+                            -71.4128343
                         ]
                     ],
                     [
                         [
-                            -80.8431267,
-                            35.2270869
+                            41.8781136,
+                            -87.6297982
                         ]
                     ],
                     [
                         [
-                            -77.0368707,
-                            38.9071923
+                            42.331427,
+                            -83.0457538
                         ]
                     ],
                     [
                         [
-                            -76.6121893,
-                            39.2903848
+                            42.3600825,
+                            -71.0588801
                         ]
                     ],
                     [
                         [
-                            -75.97798499999999,
-                            36.8529263
+                            42.9956397,
+                            -71.4547891
                         ]
                     ],
                     [
                         [
-                            -75.5397878,
-                            39.7390721
+                            43.0389025,
+                            -87.9064736
                         ]
                     ],
                     [
                         [
-                            -75.1652215,
-                            39.9525839
+                            43.5445959,
+                            -96.73110340000001
                         ]
                     ],
                     [
                         [
-                            -74.1723667,
-                            40.735657
+                            43.6187102,
+                            -116.2146068
                         ]
                     ],
                     [
                         [
-                            -74.0059413,
-                            40.7127837
+                            43.66147100000001,
+                            -70.2553259
                         ]
                     ],
                     [
                         [
-                            -73.21207199999999,
-                            44.4758825
+                            44.4758825,
+                            -73.21207199999999
                         ]
                     ],
                     [
                         [
-                            -73.19517669999999,
-                            41.1865478
+                            44.977753,
+                            -93.2650108
                         ]
                     ],
                     [
                         [
-                            -71.4547891,
-                            42.9956397
+                            45.5230622,
+                            -122.6764816
                         ]
                     ],
                     [
                         [
-                            -71.4128343,
-                            41.8239891
+                            45.7832856,
+                            -108.5006904
                         ]
                     ],
                     [
                         [
-                            -71.0588801,
-                            42.3600825
+                            46.8771863,
+                            -96.7898034
                         ]
                     ],
                     [
                         [
-                            -70.2553259,
-                            43.66147100000001
+                            47.6062095,
+                            -122.3320708
                         ]
                     ]
                 ]
